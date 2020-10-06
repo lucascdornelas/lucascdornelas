@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Lucascdornelas)](https://twitter.com/Lucascdornelas/)
 
  - 📚 Estudande de Engenharia de Computação no CEFET-MG
- - 💻 Estou aprendendo: Javascript, Nodejs.
- - 🎯 Tenho interesse: Backend.
+ - 💻 Estou aprendendo: Javascript, Nodejs, HTML, CSS.
+ - 🎯 Tenho interesse: WEB
