@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # :man_technologist: Lucas Cota Dornelas 
-### Desenvolvedor Web na <a href="https://commitjr.com">Commit Jr</a>
+### Desenvolvedor Web
 ##### Olá ~Mundo~, seja bem vindo👋. Sou Lucas, um cara que ama tecnologia e principalmente programação ❤
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-dornelas)](https://www.linkedin.com/in/lucas-c-dornelas)
 [![Gmail Badge](https://img.shields.io/badge/-lucascdornelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascdornelas@gmail.com)](mailto:lucascdornelas@gmail.com)
