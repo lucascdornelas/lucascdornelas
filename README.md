@@ -37,5 +37,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/lucacdornelas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascdornelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascdornelas&theme=dark&layout=compact"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucascdornelas"/>
+   <img height="180em" src="https://github.com/lucascdornelas/lucascdornelas/blob/main/images/stat.svg"/>
 </div>
