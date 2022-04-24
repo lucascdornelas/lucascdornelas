@@ -14,28 +14,25 @@ Here are some ideas to get you started:
 -->
 
 
-# :man_technologist: Lucas Cota Dornelas 
-### Desenvolvedor Web
-##### Olá ~Mundo~, seja bem vindo👋. Sou Lucas, um cara que ama tecnologia e principalmente programação ❤
+# :man_technologist: Lucas C. Dornelas
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-c-dornelas)](https://www.linkedin.com/in/lucas-c-dornelas)
 [![Gmail Badge](https://img.shields.io/badge/-lucascdornelas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascdornelas@gmail.com)](mailto:lucascdornelas@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucascdornelas)](https://github.com/lucascdornelas)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Lucascdornelas)](https://twitter.com/Lucascdornelas/)
 
- - 📚 Estudande de Engenharia de Computação no CEFET-MG
-### 💻 Principais Tecnologias:
-- C/C++
-- JavaScript
-- TypeScript
+### 👋 Olá, seja bem vindo.
+
+ - 📚 Estudande de Engenharia de Computação no [CEFET-MG](https://www.cefetmg.br/).
+ - ⌨️ Analista de Sistemas Jr. na [Ouvidor Digital](https://ouvidordigital.com.br/).
+ 
+### 🤓 Minhas principais tecnologias:
+- JavaScript / TypeScript
 - React
-- Redux
-- Sass
 - Firebase
-- Express Js
+- AWS
+- Node Js && Express Js
 
 <div align="left">
   <a href="https://github.com/lucacdornelas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascdornelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascdornelas&theme=dark&layout=compact"/>
-   <img height="180em" src="https://github.com/lucascdornelas/lucascdornelas/blob/main/images/stat.svg"/>
 </div>
