@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Node Js && Express Js
 
 <div align="left">
-  <a href="https://github.com/lucacdornelas">
+  <a href="https://github.com/lucascdornelas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascdornelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascdornelas&theme=dark&layout=compact"/>
 </div>
