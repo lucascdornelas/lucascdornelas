@@ -19,7 +19,7 @@ Seja bem vindo ao meu GitHub pessoal, aqui adiciono alguns projetos pessoais e a
 -   Linguagens de programação: Javascript, Typescript, Java, C e C++
 -   Banco de dados: MySql, Postgree, MongoDB, Firebase (Firestore)
 -   Frontend: HTML, CSS, React e React Native
--   Backend: Node.js, Express, Spring, Mensageria (RabbitMQ)
+-   Backend: Node.js, Express, NestJs, Spring, Mensageria (RabbitMQ)
 -   Arquitetura de software: Cliente/Servidor, Microserviços e Serverless
 
 ## Meus projetos
