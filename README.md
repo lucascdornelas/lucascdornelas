@@ -5,7 +5,7 @@ Seja bem vindo ao meu GitHub pessoal, aqui adiciono alguns projetos pessoais e a
 
 - 😉 [Meu Linkedin](https://www.linkedin.com/in/lucas-c-dornelas)
 - 📖 Estudande de Engenharia de Computação no [CEFET-MG](https://www.cefetmg.br/).
-- 💻 Engenheiro de Software Júnior na [Ouvidor Digital](https://www.ouvidordigital.com.br)
+- 💻 Engenheiro de Software na [Ouvidor Digital](https://www.ouvidordigital.com.br)
 - 🌍 [English Version]()
 
 <div align="left">
