@@ -22,13 +22,6 @@ Seja bem vindo ao meu GitHub pessoal, aqui adiciono alguns projetos pessoais e a
 -   Backend: Node.js, Express, NestJs, Spring, Mensageria (RabbitMQ)
 -   Arquitetura de software: Cliente/Servidor, Microserviços e Serverless
 
-## Meus projetos
-
-Aqui você pode encontrar alguns dos meus projetos pessoais, incluindo:
-
--   [Projeto X](https://github.com/lucascdornelas): Um aplicativo web desenvolvido com React e Firebase para gerenciamento de tarefas.
--   [Projeto Y](https://github.com/lucascdornelas): Um sistema de gerenciamento de banco de dados desenvolvido com Java e MySql.
-
 ## Contato
 
 Se você tiver alguma dúvida ou quiser entrar em contato comigo ou encontrar mais informações acesse meu perfil do LinkedIn.
