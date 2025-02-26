@@ -10,8 +10,8 @@ I'm a **Software Engineer** with a focus on **web full-stack development**, spec
 <div align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascdornelas&label=Profile%20views&color=0e75b6&style=flat" alt="lucascdornelas" /> </p>
   <a href="https://github.com/lucascdornelas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascdornelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascdornelas&theme=dark&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-git-master-lucascdornelas-projects.vercel.app/api?username=lucascdornelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-lucascdornelas-projects.vercel.app/api/top-langs/?username=lucascdornelas&theme=dark&layout=compact"/>
   <img height="180em" src="https://github.com/lucascdornelas/lucascdornelas/blob/main/images/stat.svg"/>
 </div>
 
