@@ -3,7 +3,7 @@ Crafting solutions, one line of code at a time.
 
 ## 💻 About Me
 
-I'm a **Software Engineer** with a focus on **web full-stack development**, specializing in **frontend**. I have extensive experience with **JavaScript**, **TypeScript** and **Python**, using **React, Vite, Next.js** for the frontend and **Node.js** for the backend. I'm passionate about creating scalable applications, integrating microservices, and following clean architecture principles.
+I'm a **Software Engineer** with a focus on **web full-stack development**. I have extensive experience with **JavaScript**, **TypeScript** and **Python**, using **React, Vite, Next.js** for the frontend and **Node.js** for the backend. I'm passionate about creating scalable applications, integrating microservices, and following clean architecture principles.
 
 ## 📈 Stats
 
